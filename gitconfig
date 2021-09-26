@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jane.noelab@gmail.com
+	name = Jane Braimah
